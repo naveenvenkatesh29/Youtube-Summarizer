@@ -31,4 +31,4 @@ The YouTube Video Transcriber is a Python application that transcribes the audio
 5. View the transcribed text and its summary in the provided output boxes.
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at robertselvam2002@gmail.com
+If you have any questions or feedback, feel free to contact me at naveenvenkateshkumar@gmail.com
