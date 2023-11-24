@@ -1,0 +1,5 @@
+pytube 
+git+https://github.com/openai/whisper.git 
+transformers  
+easygoogletranslate 
+gradio
